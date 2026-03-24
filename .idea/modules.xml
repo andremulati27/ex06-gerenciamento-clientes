@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/gerenciamento-clientes.iml" filepath="$PROJECT_DIR$/.idea/gerenciamento-clientes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ex06-gerenciamento-clientes.iml" filepath="$PROJECT_DIR$/.idea/ex06-gerenciamento-clientes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gerenciamento-clientes/gerenciamento-clientes.iml" filepath="$PROJECT_DIR$/gerenciamento-clientes/gerenciamento-clientes.iml" />
     </modules>
   </component>
 </project>
